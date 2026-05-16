@@ -1,4 +1,4 @@
-
+package Basico;
 /*2. Elabore um programa que leia dois números inteiros digitados pelo usuário por meio do
 teclado. Armazene esses valores em variáveis do tipo int, realize a soma utilizando o operador
 matemático adequado e armazene o resultado em uma terceira variável. Ao final, apresente
