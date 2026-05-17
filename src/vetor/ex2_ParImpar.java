@@ -46,7 +46,5 @@ public class ex2_ParImpar {
         System.out.println("\nNúmeros ímpares: " + impares);
         System.out.println("Quantidade de ímpares: " + contadorimpares);
 
-
-
     }
 }
