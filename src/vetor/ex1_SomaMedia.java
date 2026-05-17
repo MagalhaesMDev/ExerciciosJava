@@ -42,5 +42,6 @@ public class ex1_SomaMedia {
         System.out.println("Maior número: " + maior);
         System.out.println("Menor número: " + menor);
 
+
     }
 }
